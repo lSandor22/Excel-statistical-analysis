@@ -19,11 +19,11 @@ Examines the relationship between drivetrain type and fuel efficiency in the use
 Employs ANOVA to determine if there are significant differences in fuel efficiency across different drivetrain categories.
 
 Time Series Analysis:
-Analyzes the trend, seasonality, and other patterns in the hypothetical red deer population data from 1990 to 2023 using base ratios and chain-linked indices.
+Analyzes the red deer population data from 1990 to 2023 using base ratios and chain-linked indices.
 Calculates base ratios to measure relative changes in population and chain-linked indices to adjust for structural changes over time.
 
 Contingency Table Analysis:
-Examines the association between changes in the hypothetical big game population in 1990 and 2023.
+Examines the association between changes in the big game population in 1990 and 2023.
 Creates contingency tables and calculates measures of association like chi-square.
 
 Revenue Analysis:
