@@ -25,7 +25,3 @@ Calculates base ratios to measure relative changes in population and chain-linke
 ### Contingency Table Analysis:
 Examines the association between changes in the big game population in 1990 and 2023.
 Creates contingency tables and calculates measures of association like chi-square.
-
-### Revenue Analysis:
-Analyzes the impact of price, volume, and value index on hypothetical business revenue between 2022 and 2023.
-Calculates revenue, analyzes trends, and explores potential correlations.
